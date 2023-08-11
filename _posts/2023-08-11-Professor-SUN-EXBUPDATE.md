@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "The Great War and Arts: 
+title: "The Great Wall and Arts: 
 Rural Revitalization Journey with Charity Integration"
 date: 2023-08-11
 img: posts/20230811/event230811-2.jpg
