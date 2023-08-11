@@ -15,7 +15,7 @@ Rural Revitalization Journey with Charity Integration"
 
 ![Poster](./assets/img/posts/20230808/event230807.jpg)
 
-<video width="630" height="300" src="https://github.com/animation-international/animation-international.github.io/assets/141462292/7cd8ae98-1eeb-42b7-ad7e-97dc0ca6beea"></video>
+<video width="630" height="300" controls="controls"  src="https://github.com/animation-international/animation-international.github.io/assets/141462292/7cd8ae98-1eeb-42b7-ad7e-97dc0ca6beea"></video>
 
 ![Event](./assets/img/posts/20230811/event230811.jpg)
 
