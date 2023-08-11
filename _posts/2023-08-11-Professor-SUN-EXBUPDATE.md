@@ -15,7 +15,7 @@ Rural Revitalization Journey with Charity Integration"
 
 ![Poster](./assets/img/posts/20230808/event230807.jpg)
 
-<video width="630" height="300" src="https://mpvideo.qpic.cn/0b2eyaaaiaaaoqaiiuguhbsfbqgdataaabaa.f10002.mp4?dis_k=6987ab7599e269b5d6a3997ceeb16128&dis_t=1691762642&play_scene=10120&auth_info=M+mjugMrHUX+yP7RDlBCZTQdbjAdbkdYOTtHXwlzKjIVNw==&auth_key=60064ae9151cc4b43dfb300a09b35b4d&vid=wxv_3054391312910843907&format_id=10002&support_redirect=0&mmversion=false"></video>
+https://github.com/animation-international/animation-international.github.io/assets/141462292/7cd8ae98-1eeb-42b7-ad7e-97dc0ca6beea
 
 ![Event](./assets/img/posts/20230811/event230811.jpg)
 
