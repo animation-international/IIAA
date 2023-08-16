@@ -24,9 +24,9 @@ logo-dark: "/assets/img/branding/icon-full-words.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: IIAA # add your name
+author: International Institute for Animation Arts # add your name
 author-pic: icon-200.png
-about-author: Contact us.
+about-author: 
 
 # Contact links
 email: contact@animation.international # Add your Email address
@@ -46,7 +46,7 @@ stackoverflow:  # Add your stackoverflow account
 #fbadmin: ar.maybach
 
 # Paginate
-paginate: 6
+paginate: 12
 paginate_path: 'page:num'
 words_per_minute: 200
 
