@@ -20,7 +20,7 @@ In his speech, Roberto Stabile spoke highly of Xinhuanet's "Focus on China" camp
 
 ![image](./assets/img/posts/20230906/4.jpg)
 
-Dr. Wang Zhenzheng delivered a keynote speech entitled "Science Fiction¡¤Local¡¤Reflection¡ª¡ªExploration of Chinese Fantasy Films". She counted the exploration and breakthroughs of Chinese films in science fiction and fantasy genres in the past five years. "On the one hand, Chinese fantasy films have absorbed the advanced industrial technology and processes of world films, and have continuously improved their production standards. On the other hand, the new generation of creative films The creators have a clearer cultural awareness and reflective stance, and integrate and innovate sci-fi genres and local elements.¡± She focused on how to introduce virtual production technology into venture capital for this year¡¯s Blue Planet Bocai Film Program to help creators more Present the project well.
+Dr. Wang Zhenzheng delivered a keynote speech entitled "Science Fiction Local Reflection--Exploration of Chinese Fantasy Films". She counted the exploration and breakthroughs of Chinese films in science fiction and fantasy genres in the past five years. "On the one hand, Chinese fantasy films have absorbed the advanced industrial technology and processes of world films, and have continuously improved their production standards. On the other hand, the new generation of creative films The creators have a clearer cultural awareness and reflective stance, and integrate and innovate sci-fi genres and local elements." She focused on how to introduce virtual production technology into venture capital for this year's Blue Planet Bocai Film Program to help creators more Present the project well.
 
 ![image](./assets/img/posts/20230906/5.jpg)
 
@@ -30,7 +30,7 @@ It is reported that in order to further encourage young directors to start sci-f
 
 ![image](./assets/img/posts/20230906/7.jpg)
 
-In the round table dialogue, the famous documentary director Agnese Fontana introduced the six-episode science fiction documentary she is shooting, "This documentary is about the development of Chinese science fiction, involving novels, movies, games, etc. During the shooting process, I met many interesting Some of them are sci-fi writers and some are technology practitioners. I hope Blue Planet Science Fiction Film Week can become a co-producer and help us discover more creators of sci-fi film and television.¡±
+In the round table dialogue, the famous documentary director Agnese Fontana introduced the six-episode science fiction documentary she is shooting, "This documentary is about the development of Chinese science fiction, involving novels, movies, games, etc. During the shooting process, I met many interesting Some of them are sci-fi writers and some are technology practitioners. I hope Blue Planet Science Fiction Film Week can become a co-producer and help us discover more creators of sci-fi film and television."
 
 ![image](./assets/img/posts/20230906/8.jpg)
 
