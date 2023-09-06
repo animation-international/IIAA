@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "China\'s first mythological-themed meta-universe story film \"Agarwood VR\" was selected for the Venice Film Festival"
+title: "China's first mythological-themed meta-universe story film \"Agarwood VR\" was selected for the Venice Film Festival"
 date: 2023-09-06
 img: posts/20230906/2p1.png
 tags: [Film Festival, VR]

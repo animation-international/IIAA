@@ -13,7 +13,7 @@ description: "Torch Screening! Screening of the movie \"Worth the Trip\" and pre
 
 ![image](./assets/img/posts/20230906/3p1.jpg)
 
-"A Worthy Trip" Producer | Cao Baoping  Director, Screenwriter | Liu Jiayin
+"A Worthy Trip" Producer - Cao Baoping  Director, Screenwriter - Liu Jiayin
 
 At the beginning of the autumn semester of 2023, Beijing Film Academy will hold the "Fire Screening - Screening of the movie "Worthwhile Trip" and creative exchange activities" in the standard screening hall of Haidian Campus on September 7.
 
