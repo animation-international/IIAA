@@ -8,7 +8,7 @@ img: posts/20230906/2p1.png
 tags: [Film Festival, VR]
 category: News
 author: Beijing Film Academy
-description: "China\'s first mythological-themed meta-universe story film \"Agarwood VR\" was selected for the Venice Film Festival"
+description: "China's first mythological-themed meta-universe story film \"Agarwood VR\" was selected for the Venice Film Festival"
 ---
 Recently, the works created by the teachers of Beijing Film Academy once again appeared on the international stage. "Agarwood VR", directed by Liu Yuejun, School of Animation, Beijing Film Academy, with Sun Lijun and Li Jianping as art directors, was selected into the XR competition unit of the 80th Venice Film Festival and Venice Biennale.
 
