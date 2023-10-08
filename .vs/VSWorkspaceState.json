@@ -4,8 +4,10 @@
     "\\assets",
     "\\assets\\css",
     "\\assets\\css\\highlighter",
+    "\\assets\\css\\sass",
+    "\\assets\\css\\sass\\parts",
     "\\_posts"
   ],
-  "SelectedNode": "\\assets\\css\\main.css",
+  "SelectedNode": "\\_posts\\2023-10-04-100402.md",
   "PreviewInSolutionExplorer": false
 }
